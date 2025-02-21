@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando com um projeto de Melhoria continua em uma empresa parceira **Projeto Análise de Dados**
 
-- 🌱 Atualmente estou aprendendo **SQL e Python**
+- 🌱 Estou aprendendo **SQL e Python**
 
 - 🤳 Me encontre também no Instagram [https://www.instagram.com/marciel.analytics?igsh=azVhMXYzY2pvOXpk](https://www.instagram.com/marciel.analytics?igsh=azVhMXYzY2pvOXpk)
 
