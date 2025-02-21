@@ -11,11 +11,11 @@
 
 - 📫 Você me acha através do e-mail **omarciel725@gmail.com**
 
-- 📄 Aqui você encontra todas as minhas experiências [www.linkedin.com/in/marciel-carlos-medeiros-de-oliveira-aa093029a](www.linkedin.com/in/marciel-oliveira-aa093029a)
+- 📄 Aqui você encontra todas as minhas experiências [www.linkedin.com/in/marciel-oliveira-aa093029a](www.linkedin.com/in/marciel-oliveira-aa093029a)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/marciel-oliveira-aa093029a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/marciel-carlos-medeiros-de-oliveira-aa093029a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/marciel-oliveira-aa093029a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/marciel-oliveira-aa093029a" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/marciel.analytics?igsh=azvhmxyzy2pvoxpk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/marciel.analytics?igsh=azvhmxyzy2pvoxpk" height="30" width="40" /></a>
 </p>
 
