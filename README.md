@@ -11,7 +11,7 @@
 
 - 📫 Você me acha através do e-mail **omarciel725@gmail.com**
 
-- 📄 Aqui você encontra todas as minhas experiências [www.linkedin.com/in/marciel-oliveira-aa093029a](www.linkedin.com/in/marciel-oliveira-aa093029a)
+- 📄 Aqui você encontra todas as minhas experiências [www.linkedin.com/in/marciel-oliveira-aa093029a](https://www.linkedin.com/in/marciel-oliveira-aa093029a)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
