@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou O Marciel</h1>
 <h3 align="center">Apaixonado por Análise de Dados no mundo digital</h3>
 
-- 🔭 Atualmente estou trabalhando com um projeto de Melhoria continua em uma empresa parceira **Projeto Análise de Dados**
+- 🔭 Atualmente estou trabalhando com um projeto de Melhoria continua em uma empresa parceira **Projeto Análise de Dados** 
 
 - 🌱 Estou aprendendo **SQL e Python**
 
